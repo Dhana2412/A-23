@@ -1,0 +1,6 @@
+C:\Users\dhana\OneDrive\Documents\4th August\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\dhana\OneDrive\Documents\4th August\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\dhana\OneDrive\Documents\4th August\project\project\bin\Debug\project.dll
+C:\Users\dhana\OneDrive\Documents\4th August\project\project\bin\Debug\project.pdb
+C:\Users\dhana\OneDrive\Documents\4th August\project\project\obj\Debug\project.dll
+C:\Users\dhana\OneDrive\Documents\4th August\project\project\obj\Debug\project.pdb

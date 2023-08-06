@@ -1,0 +1,11 @@
+C:\Users\dhana\OneDrive\Documents\4th August\MainApp\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\dhana\OneDrive\Documents\4th August\MainApp\MainApp\bin\Debug\MainApp.exe
+C:\Users\dhana\OneDrive\Documents\4th August\MainApp\MainApp\bin\Debug\MainApp.pdb
+C:\Users\dhana\OneDrive\Documents\4th August\MainApp\MainApp\bin\Debug\project.dll
+C:\Users\dhana\OneDrive\Documents\4th August\MainApp\MainApp\bin\Debug\project.pdb
+C:\Users\dhana\OneDrive\Documents\4th August\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+C:\Users\dhana\OneDrive\Documents\4th August\MainApp\MainApp\obj\Debug\MainApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhana\OneDrive\Documents\4th August\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\dhana\OneDrive\Documents\4th August\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+C:\Users\dhana\OneDrive\Documents\4th August\MainApp\MainApp\obj\Debug\MainApp.exe
+C:\Users\dhana\OneDrive\Documents\4th August\MainApp\MainApp\obj\Debug\MainApp.pdb
